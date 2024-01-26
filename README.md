@@ -1,4 +1,4 @@
- React calculator project 
+ React Calculator Application
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 React application that allows users to perform basic mathematical operations. The project is designed to be a simple introduction to React and its components.
 The project is made up of two main components: the Calculator component and the Button component. The Calculator component is responsible for displaying the calculator interface and handling user input. The Button component is responsible for rendering the calculator buttons and handling button clicks.
